@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 //    cout << galargh.getNom() << endl;
 //    
     Armure armure("Chapeau du paysan", TypeArmure::Casque, 1, 3);
-    Armure armure2("Casque du chasseur", TypeArmure::Casque, 3, 7);
+    Armure armure2("Casque du chasseur", TypeArmure::Casque, 3, 8);
 //    galargh.Equiper(&armure);
 //    Equipement* eq = galargh.Equiper(&armure);
 //    cout << "Equiper -- OK" << endl;
